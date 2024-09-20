@@ -9,4 +9,9 @@
 
 ```python
 ("Hello, World!")
+```
 
+- [x] Complete github assignment 1
+- [x] Post a screenshot of workflows to elearing
+- [ ] Complete github assignment 2
+- [ ] Post a screenshot of workflows to elearing
